@@ -1,2 +1,2 @@
 # Central-Perk
-Twitter functionalities implemented using cassandra database
+Twitter functionalities implemented on cassandra database
