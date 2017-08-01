@@ -602,9 +602,9 @@ echo "<a href='profile.php?user=" .$user . "'><img src='$profilepic' style='posi
 								if($cnt!=0)
 								rsort($marr);
 								
-								for($i=0;$i<$cnt;$i++)
+								for($z=0;$z<$cnt;$z++)
 								{
-                                    $mt=$marr[$i];
+                                    $mt=$marr[$z];
                                     $cnt1=count($store[$mt]);
 								for($j=0;$j<$cnt1;$j++)
 								{
