@@ -1,4 +1,4 @@
-
+# Code to let a user sign in or sign up and see his/her homepage.
 <?php
 $cluster  = Cassandra::cluster()
                 ->build();
